@@ -152,7 +152,7 @@ GEM
     thor (1.0.1)
     thread_safe (0.3.6)
     tomlrb (1.2.9)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unicode-display_width (1.6.0)
     uuid (2.3.9)
